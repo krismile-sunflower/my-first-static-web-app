@@ -1,5 +1,5 @@
 <template>
-  <div>Hello {{ value }}</div>
+  <div>Hello {{ value }} 欢迎来到vue</div>
 </template>
 
 <script>
